@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    width: 1024px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.falg-name{
+    margin-top: 10px; 
+    color: aqua;
+    font-size: 47px;
+    margin-left: -30px;
+}
+.flag-div{
+    margin-top: 10px;
+    display: inline-block;
+}
+
+/* flag */
+.flag-green{
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    text-align: center;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 0px 3px 3px #000;
+    margin-top: 20px;
+}
+.flag-red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+}
+
+/* flag-end */ 
+
+/* egg */
+.egg-div{
+    margin-top: 50px;
+    margin-left: 323px;
+    margin-bottom: 60px;
+}
+.egg-sada-ongsho{ 
+    width: 300px;
+    height: 215px;
+    background-color: #a1532b;
+    text-align: center;
+    border-radius: 80%;
+    padding: 29px;
+    border: solid 5px rgb(221, 96, 12);
+}
+.egg-hodud-ongsho{
+    width: 180px;
+    height: 140px;
+    background-color: #da9502;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+}
+/* egg-end */
+
+/* shadow */
+.box-shadow{
+    width: 350px;
+    height: 175px;
+    background-color: orange;
+    margin-top: 20px;
+    box-shadow: 0 0px 30px 14px green;
+    font-size: 57px;
+    text-align: center;
+    margin-left: 295px;
+    color: white;
+}
+.text-design{
+    font-size: 50px;
+    text-shadow: 5px 2px red;
+    margin-top: 20px; 
+}
+
+.text-design h2{
+    
+    margin-top: 50px;
+    margin-left: -75px;
+    font-size: 50px;
+    text-shadow: 5px 10px 3px red;
+}
+/* box-shadow-end */

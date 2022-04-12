@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-website{
+    width: 1024px;
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+}
+
+/* header-section */
+.header-section{
+    font-size: 20px;
+    padding: 10px;
+}
+
+/* baner-section */
+.banner-section{
+    margin-bottom: -5px;
+}
+
+img{
+    max-width: 100%;
+}
+
+/* container-section */
+.container-section{
+    background-color: green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* footer-section */
+.footer-bottom{
+    background-color: black;
+    padding: 5px;
+}
+
+/* footer-bottom */
+.footer-section{
+    background-color: aquamarine;
+    font-size: 20px;
+    padding: 10px;
+}
